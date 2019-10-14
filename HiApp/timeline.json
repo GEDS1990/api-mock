@@ -3,36 +3,6 @@
     "err_msg": "success",
     "data": [
         {
-            "id": "41",
-            "nickname":"Bob Brown",
-            "avatar":"1",
-            "text": "Behind every successful man there's a lot u unsuccessful years. https://www.google.com/",
-            "original_pic": "",
-            "like_count": 1,
-            "comment_count": 2,
-            "created_at": "1504709434"
-        },
-        {
-            "id": "40",
-            "nickname":"Jean Kerr",
-            "avatar":"7",
-            "text": "I think success has no rules, but you can learn a lot from failure. ",
-            "original_pic": "",
-            "like_count": 0,
-            "comment_count": 0,
-            "created_at": "1504708544"
-        },
-        {
-            "id": "39",
-            "nickname":"Colin L. Powell",
-            "avatar":"3",
-            "text": "There are no secrets to success. It is the result of preparation, hard work, and learning from failure. www.youtube.com ",
-            "original_pic": "",
-            "like_count": 0,
-            "comment_count": 2,
-            "created_at": "1504708455"
-        },
-        {
             "id": "38",
             "nickname":"Balzac",
             "avatar":"5",
@@ -43,26 +13,6 @@
             "created_at": "1504707590"
         },
         {
-            "id": "37",
-            "nickname":"Charles Chaplin",
-            "avatar":"7",
-            "text": "You have to believe in yourself. That's the secret of success.",
-            "original_pic": "",
-            "like_count": 0,
-            "comment_count": 0,
-            "created_at": "1504707580"
-        },
-        {
-            "id": "36",
-            "nickname":"R.M. Nixon",
-            "avatar":"4",
-            "text": "Our destiny offers not the cup of despair, but the chalice of opportunity. So let us seize it, not in fear, but in gladness.",
-            "original_pic": "",
-            "like_count": 0,
-            "comment_count": 1,
-            "created_at": "1504707197"
-        },
-        {
             "id": "35",
             "nickname":"Erasmus",
             "avatar":"8",
@@ -71,16 +21,6 @@
             "like_count": 1,
             "comment_count": 0,
             "created_at": "1504706070"
-        },
-        {
-            "id": "34",
-            "nickname":"John Ruskin",
-            "avatar":"3",
-            "text": "Living without an aim is like sailing without a compass.",
-            "original_pic": "",
-            "like_count": 0,
-            "comment_count": 0,
-            "created_at": "1504706060"
         },
         {
             "id": "33",
