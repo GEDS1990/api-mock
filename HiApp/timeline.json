@@ -8,8 +8,8 @@
             "avatar":"5",
             "text": "There is no such thing as a great talent without great will - power.",
             "original_pic": "https://loremflickr.com/1000/700/nature?lock=5",
-            "like_count": 2,
-            "comment_count": 0,
+            "like_count": 0,
+            "comment_count": "度假旅游",
             "created_at": "1504707590"
         },
         {
@@ -19,7 +19,7 @@
             "text": "None is of freedom or of life deserving unless he daily conquers it anew.",
             "original_pic": "https://loremflickr.com/1000/700/nature?lock=3",
             "like_count": 1,
-            "comment_count": 0,
+            "comment_count": "日常照片",
             "created_at": "1504706070"
         },
         {
@@ -29,7 +29,7 @@
             "text": "What makes life dreary is the want of motive.",
             "original_pic": "https://loremflickr.com/1000/700/nature?lock=7",
             "like_count": 0,
-            "comment_count": 0,
+            "comment_count": "动物照片",
             "created_at": "1504705260"
         },
         {
@@ -39,7 +39,7 @@
             "text": "Towering genius disdains a beaten path. It seeks regions hitherto unexplored.",
             "original_pic": "",
             "like_count": 1,
-            "comment_count": 1,
+            "comment_count": "植物照片",
             "created_at": "1504705240"
         },
         {
@@ -49,7 +49,7 @@
             "text": "None is of freedom or of life deserving unless he daily conquers it anew. ",
             "original_pic": "https://loremflickr.com/1000/700/nature?lock=7",
             "like_count": 2,
-            "comment_count": 1,
+            "comment_count": "度假旅游",
             "created_at": "1504705133"
         },
         {
@@ -59,7 +59,7 @@
             "text": "A strong man will struggle with the storms of fate.",
             "original_pic": "https://loremflickr.com/1000/700/nature?lock=7",
             "like_count": 0,
-            "comment_count": 0,
+            "comment_count": "度假旅游",
             "created_at": "1504704742"
         }
     ]
